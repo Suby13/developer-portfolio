@@ -17,6 +17,7 @@
     margin-left: 43px;
     list-style: none;
     font-size: 20px;
+    text-align: center;
 }
 .logo_color{
 color: orangered;
@@ -27,8 +28,14 @@ border: none;
 background-color: #FD6E0A;
 color: whitesmoke;
 padding: 10px;
+border-radius: 5px;
+font-weight: 700px;
 }
 
 li a {
     text-decoration: none;
+}
+.logo_color{
+    color: #FD6E0A;
+
 }
